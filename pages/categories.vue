@@ -1,0 +1,4 @@
+<template>
+categories
+  
+</template>

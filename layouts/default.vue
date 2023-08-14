@@ -1,0 +1,4 @@
+<template>
+  <NavbarComponent />
+  <slot />
+</template>
