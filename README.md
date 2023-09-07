@@ -12,7 +12,12 @@ Install
 npm install
 ```
 
-Run JSON server (prot 3001)
+如果你還沒安裝json-server
+```
+npm install -g json-server
+```
+
+Run json-server
 ```
 npm run db
 ```
