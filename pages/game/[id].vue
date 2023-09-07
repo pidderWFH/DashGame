@@ -1,4 +1,3 @@
 <template>
 game
-  
 </template>

@@ -1,0 +1,253 @@
+{
+  "game": [
+    {
+      "id": "1426210",
+      "1426210": {
+        "success": true,
+        "data": {
+          "type": "game",
+          "name": "雙人成行",
+          "steam_appid": 1426210,
+          "required_age": 0,
+          "is_free": false,
+          "controller_support": "full",
+          "detailed_description": "在《雙人成行》這款專為雙人合作遊玩打造，跨越類型界線的橫向捲軸冒險遊戲中，踏上人生中最瘋狂的旅程。利用好友通行證*邀請好友免費遊玩。遊玩一對經常起爭執的夫妻科迪與小梅，兩人因為魔法而變成了玩偶。這兩個人被困在一個充滿驚喜的奇幻世界中，並且不得不挽救他們之間的感情。<br><br>在每個新關卡中掌握獨特且有關連的角色技能。幫助彼此跨越各種令人意外的障礙與爆笑的時刻。踹向流氓松鼠毛茸茸的尾巴、駕駛一條內褲、在擁擠的夜店中成為 DJ，並在魔法雪景球中搭乘雪橇。體驗一段溫馨且爆笑的故事，其中相互交錯的劇情與遊戲玩法將帶來一段獨特有內涵的體驗。<br><br>《雙人成行》由獲獎工作室 Hazelight 所打造，他們是業界的合作遊戲先驅。他們即將要帶你踏上一段瘋狂而美妙的旅途，而且你將在其中發現：雙人合作，勢在必行。<br><br><strong>關鍵特色</strong><br><br><ul class=\"bb_ul\"><li><strong>完美的合作</strong> ── 使用 遠端同樂**來邀請朋友一起免費遊玩，體驗這一段專門為兩人打造的刺激冒險。選擇遊玩線上合作還是分割螢幕遊戲，然後透過合作來化解各種不斷改變的挑戰並繼續前進。<br><br></li><li><strong>歡樂而難纏的遊戲玩法</strong> ── 無論是暴走的吸塵器，還是有魅力的愛情導師，你永遠猜不到接下來會碰上什麼東西。本遊戲中充滿各種跨風格挑戰，且每個關卡中有新增的角色技能供你掌握，另外你還能體驗到一種透過暗喻呈現遊戲玩法與劇情的創新互動故事。<br><br></li><li><strong>一段適合所有人的愛情故事</strong> ── 探索理解彼此時所面對的各種困難，將帶來什麼樣的溫馨故事。幫助化解科迪與小梅之間的分歧。認識各種古怪而討喜的角色。一起踏上冒險，一起打造這段寶貴的回憶！</li></ul><strong>關於 HAZELIGHT</strong><br>Hazelight 是一間位於瑞典斯德哥爾摩的獲獎獨立遊戲開發工作室。Hazelight 在 2014 年由 Josef Fares 所創立（獲獎遊戲《Brothers: A Tale of Two Sons》的影片總監與創造者），致力於突破創意屏障，並探索遊戲的潛能。在 2018 年，Hazelight 在 EA Originals 計畫下推出了贏得 BAFTA 的《A Way Out》── 史上第一款限合作第三人稱動作冒險遊戲。<br><br><strong>關於 EA ORIGINALS</strong><br>EA Originals 會幫助全球各地的一些有熱情、獨立且有才華的遊戲工作室宣傳他們的遊戲。在這些創意十足的遊戲開發商所打造出的迷人且啟發人的遊戲中，探索各種創新而難忘的遊戲體驗。",
+          "about_the_game": "在《雙人成行》這款專為雙人合作遊玩打造，跨越類型界線的橫向捲軸冒險遊戲中，踏上人生中最瘋狂的旅程。利用好友通行證*邀請好友免費遊玩。遊玩一對經常起爭執的夫妻科迪與小梅，兩人因為魔法而變成了玩偶。這兩個人被困在一個充滿驚喜的奇幻世界中，並且不得不挽救他們之間的感情。<br><br>在每個新關卡中掌握獨特且有關連的角色技能。幫助彼此跨越各種令人意外的障礙與爆笑的時刻。踹向流氓松鼠毛茸茸的尾巴、駕駛一條內褲、在擁擠的夜店中成為 DJ，並在魔法雪景球中搭乘雪橇。體驗一段溫馨且爆笑的故事，其中相互交錯的劇情與遊戲玩法將帶來一段獨特有內涵的體驗。<br><br>《雙人成行》由獲獎工作室 Hazelight 所打造，他們是業界的合作遊戲先驅。他們即將要帶你踏上一段瘋狂而美妙的旅途，而且你將在其中發現：雙人合作，勢在必行。<br><br><strong>關鍵特色</strong><br><br><ul class=\"bb_ul\"><li><strong>完美的合作</strong> ── 使用 遠端同樂**來邀請朋友一起免費遊玩，體驗這一段專門為兩人打造的刺激冒險。選擇遊玩線上合作還是分割螢幕遊戲，然後透過合作來化解各種不斷改變的挑戰並繼續前進。<br><br></li><li><strong>歡樂而難纏的遊戲玩法</strong> ── 無論是暴走的吸塵器，還是有魅力的愛情導師，你永遠猜不到接下來會碰上什麼東西。本遊戲中充滿各種跨風格挑戰，且每個關卡中有新增的角色技能供你掌握，另外你還能體驗到一種透過暗喻呈現遊戲玩法與劇情的創新互動故事。<br><br></li><li><strong>一段適合所有人的愛情故事</strong> ── 探索理解彼此時所面對的各種困難，將帶來什麼樣的溫馨故事。幫助化解科迪與小梅之間的分歧。認識各種古怪而討喜的角色。一起踏上冒險，一起打造這段寶貴的回憶！</li></ul><strong>關於 HAZELIGHT</strong><br>Hazelight 是一間位於瑞典斯德哥爾摩的獲獎獨立遊戲開發工作室。Hazelight 在 2014 年由 Josef Fares 所創立（獲獎遊戲《Brothers: A Tale of Two Sons》的影片總監與創造者），致力於突破創意屏障，並探索遊戲的潛能。在 2018 年，Hazelight 在 EA Originals 計畫下推出了贏得 BAFTA 的《A Way Out》── 史上第一款限合作第三人稱動作冒險遊戲。<br><br><strong>關於 EA ORIGINALS</strong><br>EA Originals 會幫助全球各地的一些有熱情、獨立且有才華的遊戲工作室宣傳他們的遊戲。在這些創意十足的遊戲開發商所打造出的迷人且啟發人的遊戲中，探索各種創新而難忘的遊戲體驗。",
+          "short_description": "在《雙人成行》中踏上人生中最瘋狂的旅程。利用好友通行證*邀請好友免費遊玩。",
+          "supported_languages": "英文<strong>*</strong>, 法文<strong>*</strong>, 義大利文, 德文<strong>*</strong>, 西班牙文 - 西班牙<strong>*</strong>, 日文<strong>*</strong>, 韓文, 波蘭文, 葡萄牙文 - 巴西, 俄文, 簡體中文, 繁體中文<br><strong>*</strong>具備完整音效支援的語言",
+          "reviews": "“A roaring success.  Hazelight's biggest triumph.  An expertly designed cooperative experience.”<br>9.25/10 – <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.gameinformer.com/review/it-takes-two/it-takes-two-review-the-joys-and-heartbreak-of-love\" target=\"_blank\" rel=\" noopener\"  >Game Informer</a><br><br>“Makes the most of what it means to offer truly co-operative gameplay”<br>5/5 – <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.gamesradar.com/it-takes-two-review-hazelight/\" target=\"_blank\" rel=\" noopener\"  >GamesRadar+</a><br><br>“It Takes Two is the best co-op game since Portal 2”<br>4.5/5 – <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.thegamer.com/it-takes-two-review/\" target=\"_blank\" rel=\" noopener\"  >TheGamer</a><br>",
+          "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/header.jpg?t=1691006466",
+          "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/capsule_231x87.jpg?t=1691006466",
+          "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/capsule_184x69.jpg?t=1691006466",
+          "website": "https://www.ea.com/games/it-takes-two",
+          "pc_requirements": {
+            "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 8.1 64-bit or Windows 10 64-bit<br></li><li><strong>處理器:</strong> Intel Core i3-2100T or AMD FX 6100<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia GeForce GTX 660 or AMD R7 260x<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 50 GB 可用空間</li></ul>",
+            "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 8.1 64-bit or Windows 10 64-bit<br></li><li><strong>處理器:</strong> Intel Core i5 3570K or AMD Ryzen 3 1300x<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia GeForce GTX 980 or AMD R9 290X<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 50 GB 可用空間</li></ul>"
+          },
+          "mac_requirements": {
+            "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統</li></ul>",
+            "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統</li></ul>"
+          },
+          "linux_requirements": {
+            "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統</li></ul>",
+            "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統</li></ul>"
+          },
+          "legal_notice": "必須要有網際網路連線、EA 帳號、STEAM 帳號並且接受 EA 使用者協議 (terms.ea.com/tc)，同時用單次使用的產品代碼完成註冊才能開始遊戲。您在使用 EA 服務時適用 EA 的隱私與COOKIE政策。請參閱最終產品詳細資訊和內容保護技術(若有)，網址為www.ea.com/zh-tw/legal。必須連結 EA 帳號和 STEAM 帳號才能遊玩；EA 將與 STEAM 分享您的帳號 ID 和個人遊戲與遊玩記錄，以驗證您的購買和/或退款請求。您需要年滿 13 歲才能使用線上功能。可能會自動下載強制內容更新，這需要額外的儲存空間並支付頻寬使用費。EA在下列網址發佈通知30天後，可能將其線上功能收回：www.ea.com/zh-tw/service-updates。<br />\r\n<br />\r\nEA 使用者協議：德國居民為 terms.ea.com/de，所有其他地區居民為 terms.ea.com/tc。<br />\r\nEA 隱私與Cookie政策：德國居民為 privacy.ea.com/de，所有其他地區居民為 privacy.ea.com/tc。<br />\r\n<br />\r\n*好友通行證需要安裝好友通行證免費試玩版，以及一名在相同平台和/或次世代平台上擁有該遊戲的線上好友<br />\r\n**遠端同樂需要存取遠端同樂，以及一名在 Steam 上擁有該遊戲的線上好友<br />\r\n<br />\r\n© 2021 Hazelight Studios AB. 保留所有權利。《雙人成行》為 Hazelight Studios AB 之商標。 EA 與 EA 標誌為 Electronic Arts Inc. 的商標",
+          "drm_notice": "EA on-line activation and Origin client software installation and background use required.",
+          "ext_user_account_notice": "EA Account （支援與 Steam 帳戶連結）",
+          "developers": ["Hazelight"],
+          "publishers": ["Electronic Arts"],
+          "demos": [
+            { "appid": 1504980, "description": "It Takes Two Friend's Pass" }
+          ],
+          "price_overview": {
+            "currency": "TWD",
+            "initial": 109900,
+            "final": 109900,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "NT$ 1,099"
+          },
+          "packages": [500812],
+          "package_groups": [
+            {
+              "name": "default",
+              "title": "購買 雙人成行",
+              "description": "",
+              "selection_text": "選擇購買選項",
+              "save_text": "",
+              "display_type": 0,
+              "is_recurring_subscription": "false",
+              "subs": [
+                {
+                  "packageid": 500812,
+                  "percent_savings_text": " ",
+                  "percent_savings": 0,
+                  "option_text": "雙人成行 - NT$ 1,099",
+                  "option_description": "",
+                  "can_get_free_license": "0",
+                  "is_free_license": false,
+                  "price_in_cents_with_discount": 109900
+                }
+              ]
+            }
+          ],
+          "platforms": { "windows": true, "mac": false, "linux": false },
+          "metacritic": {
+            "score": 89,
+            "url": "https://www.metacritic.com/game/pc/it-takes-two?ftag=MCD-06-10aaa1f"
+          },
+          "categories": [
+            { "id": 1, "description": "多人" },
+            { "id": 9, "description": "合作" },
+            { "id": 38, "description": "線上合作" },
+            { "id": 39, "description": "共享 / 分割螢幕合作" },
+            { "id": 24, "description": "分享／分割螢幕" },
+            { "id": 22, "description": "Steam 成就" },
+            { "id": 28, "description": "完全支援控制器" },
+            { "id": 29, "description": "Steam 交換卡片" },
+            { "id": 44, "description": "遠端同樂" }
+          ],
+          "genres": [
+            { "id": "1", "description": "動作" },
+            { "id": "25", "description": "冒險" }
+          ],
+          "screenshots": [
+            {
+              "id": 0,
+              "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_3e59753eefaba9a7704a18e902b48e8d38e95e0b.600x338.jpg?t=1691006466",
+              "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_3e59753eefaba9a7704a18e902b48e8d38e95e0b.1920x1080.jpg?t=1691006466"
+            },
+            {
+              "id": 1,
+              "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_6e987a0678b013bfd0073a9ac4703e1f04ca4dea.600x338.jpg?t=1691006466",
+              "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_6e987a0678b013bfd0073a9ac4703e1f04ca4dea.1920x1080.jpg?t=1691006466"
+            },
+            {
+              "id": 2,
+              "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_fdac523e3ea4d2f32a44449bb8c224857563bd7d.600x338.jpg?t=1691006466",
+              "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_fdac523e3ea4d2f32a44449bb8c224857563bd7d.1920x1080.jpg?t=1691006466"
+            },
+            {
+              "id": 3,
+              "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_4a62bc8fa398fc5b2094a6225dc5ecff9485f824.600x338.jpg?t=1691006466",
+              "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_4a62bc8fa398fc5b2094a6225dc5ecff9485f824.1920x1080.jpg?t=1691006466"
+            },
+            {
+              "id": 4,
+              "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_a15164ddd357ab3c0b2aff575a6b215b2d91b406.600x338.jpg?t=1691006466",
+              "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_a15164ddd357ab3c0b2aff575a6b215b2d91b406.1920x1080.jpg?t=1691006466"
+            },
+            {
+              "id": 5,
+              "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_d7a931229cbf1cc25975bb5860cbde5b9bbc826a.600x338.jpg?t=1691006466",
+              "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_d7a931229cbf1cc25975bb5860cbde5b9bbc826a.1920x1080.jpg?t=1691006466"
+            },
+            {
+              "id": 6,
+              "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_6f7b65b8613afbcb2616bff8ed0283d0629b6572.600x338.jpg?t=1691006466",
+              "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_6f7b65b8613afbcb2616bff8ed0283d0629b6572.1920x1080.jpg?t=1691006466"
+            },
+            {
+              "id": 7,
+              "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_6ce2d50261a94284c72164e2d6d3721fe2f00013.600x338.jpg?t=1691006466",
+              "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_6ce2d50261a94284c72164e2d6d3721fe2f00013.1920x1080.jpg?t=1691006466"
+            }
+          ],
+          "movies": [
+            {
+              "id": 256827093,
+              "name": "Official Trailer",
+              "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256827093/movie.293x165.jpg?t=1616514535",
+              "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256827093/movie480_vp9.webm?t=1616514535",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256827093/movie_max_vp9.webm?t=1616514535"
+              },
+              "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256827093/movie480.mp4?t=1616514535",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256827093/movie_max.mp4?t=1616514535"
+              },
+              "highlight": true
+            },
+            {
+              "id": 256825938,
+              "name": "#5",
+              "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256825938/movie.293x165.jpg?t=1615809022",
+              "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256825938/movie480_vp9.webm?t=1615809022",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256825938/movie_max_vp9.webm?t=1615809022"
+              },
+              "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256825938/movie480.mp4?t=1615809022",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256825938/movie_max.mp4?t=1615809022"
+              },
+              "highlight": true
+            },
+            {
+              "id": 256813190,
+              "name": "Friends Pass",
+              "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256813190/movie.293x165.jpg?t=1607655633",
+              "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256813190/movie480_vp9.webm?t=1607655633",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256813190/movie_max_vp9.webm?t=1607655633"
+              },
+              "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256813190/movie480.mp4?t=1607655633",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256813190/movie_max.mp4?t=1607655633"
+              },
+              "highlight": true
+            },
+            {
+              "id": 256813189,
+              "name": "Reveal",
+              "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256813189/movie.293x165.jpg?t=1607655625",
+              "webm": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256813189/movie480_vp9.webm?t=1607655625",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256813189/movie_max_vp9.webm?t=1607655625"
+              },
+              "mp4": {
+                "480": "http://cdn.akamai.steamstatic.com/steam/apps/256813189/movie480.mp4?t=1607655625",
+                "max": "http://cdn.akamai.steamstatic.com/steam/apps/256813189/movie_max.mp4?t=1607655625"
+              },
+              "highlight": true
+            }
+          ],
+          "recommendations": { "total": 114658 },
+          "achievements": {
+            "total": 20,
+            "highlighted": [
+              {
+                "name": "雙人行",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1426210/785537e13a8c7231a63e8d8fa8bd64a060a06b49.jpg"
+              },
+              {
+                "name": "小遊戲大亨",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1426210/5d2d27c5682f61c5809da7675a6090853ed64778.jpg"
+              },
+              {
+                "name": "焦燒友情",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1426210/3f57e101c13e1fd9bcfbaf8da2c847248577a8c6.jpg"
+              },
+              {
+                "name": "擺個姿勢",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1426210/0e2c267a7f73173534e0a56756d7ae2e166f8050.jpg"
+              },
+              {
+                "name": "逃出塑膠監獄",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1426210/9ef1046ecc336e6e1e1bd56a61347f0a0fca42c6.jpg"
+              },
+              {
+                "name": "遠方頻率",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1426210/8be6a325eae714b47628701e4b526f7fcddd6788.jpg"
+              },
+              {
+                "name": "飛天科迪",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1426210/602ee8c20ef1d17c7e4428a85b3cbcbc78843df4.jpg"
+              },
+              {
+                "name": "大賺一筆",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1426210/73615a803a982b0d2d4d6ade80a710a69c97ae5d.jpg"
+              },
+              {
+                "name": "大膽演出",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1426210/c0a8abfe121396d38573aa7f1dff601585a6faad.jpg"
+              },
+              {
+                "name": "恐龍小吃",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1426210/d245f453b4704b1a97691ad3ae962bba7ba24dba.jpg"
+              }
+            ]
+          },
+          "release_date": {
+            "coming_soon": false,
+            "date": "2021 年 3 月 26 日"
+          },
+          "support_info": { "url": "https://help.ea.com/", "email": "" },
+          "background": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/page_bg_generated_v6b.jpg?t=1691006466",
+          "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/page.bg.jpg?t=1691006466",
+          "content_descriptors": { "ids": [], "notes": null }
+        }
+      }
+    }
+  ]
+}

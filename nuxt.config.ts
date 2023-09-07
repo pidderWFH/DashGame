@@ -3,12 +3,13 @@ export default defineNuxtConfig({
   // devtools: { enabled: true },
   modules: [
     '@nuxtjs/tailwindcss',
-    '@element-plus/nuxt',
     '@pinia/nuxt'
   ],
-  // elementPlus: {}
   "imports": {
     "dirs": ['stores']
- }
-
+ },
+ css: ['~/assets/style/tailwind.css'],
+ app: {
+  baseURL: '/Dash/'
+},
 })
