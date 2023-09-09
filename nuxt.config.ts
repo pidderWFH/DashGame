@@ -1,15 +1,16 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  // devtools: { enabled: true },
   modules: [
     '@nuxtjs/tailwindcss',
-    '@pinia/nuxt'
+    '@pinia/nuxt',
+    '@nuxt/devtools',
+    'nuxt-icon'
   ],
   "imports": {
     "dirs": ['stores']
- },
- css: ['~/assets/style/tailwind.css'],
- app: {
+},
+css: ['~/assets/style/tailwind.css'],
+app: {
   baseURL: '/Dash/'
 },
 })

@@ -10,10 +10,11 @@
     "db": "json-server --watch --port 3001 db.json"
   },
   "devDependencies": {
-    "@nuxt/devtools": "latest",
+    "@nuxt/devtools": "^0.8.3",
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@types/node": "^18.17.3",
-    "nuxt": "^3.6.5"
+    "nuxt": "^3.6.5",
+    "nuxt-icon": "^0.5.0"
   },
   "dependencies": {
     "@pinia/nuxt": "^0.4.11",
