@@ -1,3 +1,4 @@
 <template>
-game
+<SectiononeComponent></SectiononeComponent>
+
 </template>
