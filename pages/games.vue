@@ -1,4 +1,4 @@
 <template>
 games
-  
+  <SysRequiredComponent />
 </template>
